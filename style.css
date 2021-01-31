@@ -1,0 +1,81 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.body{
+    background-color:#000220;
+    background-image: url(https://images6.alphacoders.com/692/692056.png);
+
+}
+
+.contacts{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: 'Teko', sans-serif;
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+
+}
+
+.Greeting{
+    font-family: 'Teko', sans-serif;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Teko', sans-serif;
+    color:white;
+    
+}
+
+.animate__animated.animate__fadeInLeftBig{
+    animation-duration: 1s;
+}
+.animate__animated.animate__fadeInRightBig{
+    animation-duration: 1s;
+}
+
+.navbar{
+    font-family: 'Teko', sans-serif;
+    background-color: black;
+    font-size: 24px;
+    animation-name: fadeInDown;
+    animation-duration: 1s;
+    /* position: fixed; */
+    
+}
+
+
+.about{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: 'Teko', sans-serif;
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+}
+.container{
+    margin-top: 67px;
+}
+
+.carousel-indicators{
+    background-color: darkgray;
+    font-size: 24px;
+}
+
+.carousel-indicators:hover{
+    background-color: grey;
+}
+
+.projects{
+    background-color: black;
+    font-family: 'Teko', sans-serif;
+    color: white;
+    text-align: center;
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+}
+
